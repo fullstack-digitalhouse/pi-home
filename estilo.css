@@ -60,6 +60,10 @@ nav a{
     font-size: 1em;
 }
 
+.btn:hover{
+    background-color: #38DBD5;
+}
+
 .btn i{
     font-size: 1.3em;
 }
@@ -130,6 +134,11 @@ section{
 
     max-width: 200px;
     min-height: 250px;
+}
+
+
+.card:hover{
+    opacity: 0.7;
 }
 
 .card p{
